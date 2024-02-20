@@ -1,0 +1,1118 @@
+# Translation of Plugins - Calculated Fields Form - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Calculated Fields Form - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-01-03 17:35:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-beta.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Calculated Fields Form - Stable (latest release)\n"
+
+#: inc/cpcff_admin_int.inc.php:770
+msgid "Assistant"
+msgstr "Ассистент"
+
+#: inc/cpcff_admin_int.inc.php:802
+msgid "Your question"
+msgstr "Ваш вопрос"
+
+#: inc/cpcff_openai.inc.php:111
+msgid "You must enter a question"
+msgstr "Вы должны ввести вопрос"
+
+#: inc/cpcff_admin_int.inc.php:803
+msgid "Send"
+msgstr "Отправить"
+
+#: inc/cpcff_admin_int.inc.php:784
+msgid "Save"
+msgstr "Сохранить"
+
+#: inc/cpcff_admin_int.inc.php:800
+msgid "Please, enter your questions"
+msgstr "Пожалуйста, введите ваши вопросы"
+
+#: inc/cpcff_admin_int.inc.php:805
+msgid "Please, enter your question"
+msgstr "Пожалуйста, введите свой вопрос"
+
+#: inc/cpcff_openai.inc.php:115
+msgid "OpenAI API Key is required, please, press the settings button, and enter your API Key."
+msgstr "Требуется ключ API OpenAI, пожалуйста, нажмите кнопку настройки и введите свой ключ API."
+
+#: inc/cpcff_admin_int.inc.php:786 inc/cpcff_openai.inc.php:35
+msgid "OpenAI API Key is required"
+msgstr "Требуется ключ API OpenAI"
+
+#: inc/cpcff_admin_int.inc.php:783
+msgid "OpenAI API Key"
+msgstr "Ключ API OpenAI"
+
+#: inc/cpcff_admin_int.inc.php:788
+msgid "Instructions for use"
+msgstr "Инструкции по применению"
+
+#: inc/cpcff_admin_int.inc.php:792
+msgid "Enter the API Key through the input box and press the Save button"
+msgstr "Введите API-ключ через поле ввода и нажмите кнопку Сохранить"
+
+#: inc/cpcff_admin_int.inc.php:781
+msgid "Enter OpenAI API key"
+msgstr "Введите ключ API OpenAI"
+
+#: inc/cpcff_admin_int.inc.php:790
+msgid "Create an OpenAI account at"
+msgstr "Создайте учётную запись OpenAI на"
+
+#: inc/cpcff_admin_int.inc.php:791
+msgid "Create an API key at"
+msgstr "Создайте ключ API на"
+
+#: inc/cpcff_admin_int.inc.php:768
+msgid "AI Assistant (Experimental Feature)"
+msgstr "AI-помощник (экспериментальная функция)"
+
+#: inc/cpcff_admin_int.inc.php:126
+msgid "AI Assistant"
+msgstr "ИИ Ассистент"
+
+#: inc/cpcff_admin_int_list.inc.php:412
+msgid "Rename"
+msgstr "Переименовать"
+
+#: inc/cpcff_admin_int_list.inc.php:414
+msgid "Entries"
+msgstr "Записи"
+
+#: inc/cpcff_admin_int_list.inc.php:415
+msgid "Duplicate"
+msgstr "Дублировать"
+
+#: inc/cpcff_admin_int.inc.php:124
+msgid "Shrink"
+msgstr "Уменьшить"
+
+#: inc/cpcff_admin_int_list.inc.php:413
+msgid "Build"
+msgstr "Сборка"
+
+#: inc/cpcff_page_builders.inc.php:92
+msgid "Load form into an iframe"
+msgstr "Загрузить форму в iframe"
+
+#: inc/cpcff_compatibility.inc.php:54
+msgid "There is active the <b>SG Optimizer</b> plugin. If the forms are not visible, please, follows the steps below: <ol><li>Go to the menu option: \"SG Optimizer > Frontend\"</li><li>Enter in the \"JAVASCRIPT\" tab</li><li>Select  the jQuer path through the \"Exclude from Deferral of Render-blocking JS\"</li><li>Purge the \"SG Cache\"</li></ol> If the issue persists, disable the options: <i>\"Minify the HTML Output\"</i> and <i>\"Minify JavaScript Files\"</i> in the <b>SG Optimizer</b> settings, and once more, to purge the website cache."
+msgstr "Активен плагин <b>SG Optimizer</b>. Если формы не видны, выполните следующие действия: <ol><li>Перейдите в пункт меню: \"SG Optimizer> Frontend\"</li><li>войдите во вкладку \"JAVASCRIPT\"</li><li>выберите путь jQuer через \"Exclude from Deferral of Render-blocking JS\".</li><li>очистить \"SG Cache\"</li></ol> Если проблема сохраняется, отключите эти настройки: <i>\"Минимизация HTML-вывода\"</i> и <i>\"Минимизация файлов JavaScript\"</i> вкладка настройки <b>SG Optimizer</b>, и еще раз очистить кэш веб-сайта."
+
+#: inc/cpcff_admin_int.inc.php:123
+msgid "Fullscreen"
+msgstr "На весь экран"
+
+#: inc/cpcff_admin_int.inc.php:614 inc/cpcff_admin_int.inc.php:671
+msgid "Select file"
+msgstr "Выберите файл"
+
+#: inc/cpcff_admin_int.inc.php:615
+msgid "Enter the path to a static file you wish to attach to the notification email."
+msgstr "Введите путь к статическому файлу, который вы хотите прикрепить к электронному письму с уведомлением."
+
+#: inc/cpcff_admin_int.inc.php:672
+msgid "Enter the path to a static file you wish to attach to the copy to user email."
+msgstr "Введите путь к статическому файлу, который вы хотите прикрепить к копии для электронной почты пользователя."
+
+#: inc/cpcff_admin_int.inc.php:611 inc/cpcff_admin_int.inc.php:668
+msgid "Attach static file"
+msgstr "Прикрепить статический файл"
+
+#: inc/cpcff_admin_int.inc.php:554
+msgid "If you or your users do not receive the notification emails, they are probably being blocked by the web server. If so, install any of the SMTP connection plugins distributed through the WordPress directory, and configure it to use your hosting provider's SMTP server."
+msgstr "Если вы или ваши пользователи не получают письма с уведомлениями, то, вероятно, они блокируются веб-сервером. В этом случае установите любой из плагинов SMTP-соединения, распространяемых через каталог WordPress, и настройте его на использование SMTP-сервера вашего хостинг-провайдера."
+
+#: inc/cpcff_admin_int_list.inc.php:280
+msgid "From Template"
+msgstr "Из шаблона"
+
+#: inc/cpcff_admin_int_list.inc.php:506
+msgid "Disable Form Revisions"
+msgstr "Отключить редактирование форм"
+
+#: inc/cpcff_compatibility.inc.php:18
+msgid "There is active the <b>Breeze - WordPress Cache Plugin</b> plugin. If the forms are not visible, please tick the <i>\"There is active an optimization plugin in WordPress\"</i> and Purge the Breeze cache."
+msgstr "Активен плагин <b>Breeze - WordPress Cache Plugin</b>. Если формы не отображаются, отметьте <i>\"В WordPress активен плагин оптимизации\"</i> и очистите кеш Breeze."
+
+#: inc/cpcff_admin_int.inc.php:426
+msgid "United States dollar"
+msgstr "Доллар США"
+
+#: inc/cpcff_admin_int.inc.php:426
+msgid "Pound sterling"
+msgstr "Фунт стерлингов"
+
+#: inc/cpcff_admin_int.inc.php:426
+msgid "PayPal Currency Codes"
+msgstr "Коды валют в PayPal"
+
+#: inc/cpcff_admin_int_list.inc.php:279
+msgid "Create Form"
+msgstr "Создать форму"
+
+#: inc/cpcff_admin_int.inc.php:384
+msgid "The CFF plugin implements widgets and blocks to allow inserting the form visually with the most popular page builders such as Gutenberg Editor, Classic Editor, Elementor, Site Origin, Visual Composer, Beaver Builder, Divi, and for the other page builders insert the shortcode directly."
+msgstr "Плагин CFF реализует виджеты и блоки, позволяющие вставлять форму визуально в наиболее популярные конструкторы страниц, такие как Gutenberg Editor, Classic Editor, Elementor, Site Origin, Visual Composer, Beaver Builder, Divi, а для других конструкторов страниц вставлять шорткод напрямую."
+
+#: inc/cpcff_admin_int.inc.php:382
+msgid "To display the form in a post/page, enter your shortcode in the post/page content:"
+msgstr "Чтобы отобразить форму в записи/странице, введите ваш шорткод в содержимое записи/страницы:"
+
+#: inc/cpcff_admin_int.inc.php:120
+msgid "Saves the form's structure only, and opens a preview windows"
+msgstr "Сохраняет только структуру формы и открывает окна предварительного просмотра"
+
+#: inc/cpcff_admin_int.inc.php:121
+msgid "Fields List"
+msgstr "Список полей"
+
+#: inc/cpcff_admin_int_list.inc.php:419
+msgid "Category: "
+msgstr "Рубрика: "
+
+#: inc/cpcff_admin_int_list.inc.php:384
+msgid "Category/Shortcode"
+msgstr "Рубрика/Шорткод"
+
+#: inc/cpcff_admin_int_list.inc.php:273
+msgid "Category"
+msgstr "Рубрика"
+
+#: inc/cpcff_admin_int_list.inc.php:290
+msgid "Form Categories"
+msgstr "Категории форм"
+
+#: inc/cpcff_admin_int_list.inc.php:292 inc/cpcff_admin_int_list.inc.php:336
+msgid "All forms"
+msgstr "Все формы"
+
+#: inc/cpcff_admin_int.inc.php:84
+msgid "Form Category"
+msgstr "Категория формы"
+
+#: inc/cpcff_admin_int_list.inc.php:367
+msgid "in"
+msgstr "в"
+
+#: inc/cpcff_admin_int_list.inc.php:367 inc/cpcff_admin_int_list.inc.php:398
+msgid "category"
+msgstr "рубрика"
+
+#: pagebuilders/siteorigin/siteorigin-cpcff-variable/siteorigin-cpcff-variable.php:23
+msgid "Variable name"
+msgstr "Имя переменной"
+
+#: pagebuilders/beaverbuilder/cffvar/cffvar.inc.php:11
+msgid "Variable attributes"
+msgstr "Атрибуты переменных"
+
+#: pagebuilders/siteorigin/siteorigin-cpcff-variable/siteorigin-cpcff-variable.php:45
+msgid "Value (value of the variable when it is generated directly)"
+msgstr "Значение (значение переменной, когда она генерируется напрямую)"
+
+#: pagebuilders/elementor/elementor.pb.php:168
+msgid "Variable Shortcode"
+msgstr "Переменный шорткод"
+
+#: pagebuilders/elementor/elementor.pb.php:175
+msgid "Variable shortcode"
+msgstr "Переменный шорткод"
+
+#: pagebuilders/siteorigin/siteorigin-cpcff-variable/siteorigin-cpcff-variable.php:15
+msgid "Shortcode to generate a javascript variable from the url parameters (GET or POST), session variables, cookies, or define it directly"
+msgstr "Шорткод для создания переменной javascript из параметров URL-адреса (GET или POST), переменных сеанса, файлов cookie или определения ее напрямую"
+
+#: pagebuilders/beaverbuilder/cffvar/cffvar.inc.php:29
+msgid "SESSION variables"
+msgstr "Переменные СЕССИИ"
+
+#: pagebuilders/siteorigin/siteorigin-cpcff-variable/siteorigin-cpcff-variable.php:34
+msgid "Session variable"
+msgstr "Переменная сессии"
+
+#: pagebuilders/divi/cff.pb.php:39
+msgid "Select the form."
+msgstr "Выберите форму."
+
+#: pagebuilders/beaverbuilder/cff/cff.inc.php:22
+msgid "Select the form and enter the additional attributes"
+msgstr "Выберите форму и введите дополнительные атрибуты"
+
+#: inc/cpcff_page_builders.inc.php:89
+#: pagebuilders/elementor/elementor.pb.php:54
+msgid "Select a form"
+msgstr "Выберите форму"
+
+#: pagebuilders/beaverbuilder/cffvar/cffvar.inc.php:28
+msgid "POST parameters"
+msgstr "POST параметры"
+
+#: pagebuilders/siteorigin/siteorigin-cpcff/siteorigin-cpcff.php:44
+msgid "Pass additional attributes to the form. Ex: attr_name=\"attr_value\" (optional)"
+msgstr "Передать в форму дополнительные атрибуты. Пример: attr_name=\"attr_value\" (необязательно)"
+
+#: inc/cpcff_compatibility.inc.php:48
+msgid "There is active the <b>WP Rocket</b> plugin. If the forms are not visible, please try disabling the <i>\"Combine JavaScript files\"</i> option in the <b>FILE OPTIMIZATION</b> tab of <b>WP Rocket</b> settings, and remember to clear the website cache."
+msgstr "Активен плагин <b>WP Rocket</b>. Если формы не отображаются, попробуйте отключить параметр <i>\"Объединить файлы JavaScript\"</i> на вкладке <b>ОПТИМИЗАЦИЯ ФАЙЛОВ</b> в настройках <b>WP Rocket</b> и не забудьте очистить кеш сайта."
+
+#: pagebuilders/siteorigin/siteorigin-cpcff-variable/siteorigin-cpcff-variable.php:33
+msgid "POST parameter"
+msgstr "POST параметр"
+
+#: pagebuilders/beaverbuilder/cff/cff/cff.php:10
+msgid "Inserts a form"
+msgstr "Вставляет форму"
+
+#: pagebuilders/siteorigin/siteorigin-cpcff/siteorigin-cpcff.php:26
+msgid "Includes the shortcode for inserting a form"
+msgstr "Включает шорткод для вставки формы"
+
+#: pagebuilders/elementor/elementor.pb.php:180
+msgid "I need help [+]"
+msgstr "Мне нужна помощь [+]"
+
+#: pagebuilders/beaverbuilder/cffvar/cffvar.inc.php:27
+msgid "GET parameters"
+msgstr "GET параметры"
+
+#: pagebuilders/siteorigin/siteorigin-cpcff-variable/siteorigin-cpcff-variable.php:32
+msgid "GET parameter"
+msgstr "GET параметр"
+
+#: pagebuilders/beaverbuilder/cffvar/cffvar.inc.php:24
+#: pagebuilders/siteorigin/siteorigin-cpcff-variable/siteorigin-cpcff-variable.php:28
+msgid "Generate variable from"
+msgstr "Создать переменную из"
+
+#: pagebuilders/beaverbuilder/cffvar/cffvar.inc.php:8
+msgid "Generate variable"
+msgstr "Создать переменную"
+
+#: inc/cpcff_page_builders.inc.php:90
+msgid "Forms"
+msgstr "Формы"
+
+#: pagebuilders/siteorigin/siteorigin-cpcff/siteorigin-cpcff.php:34
+msgid "Form to include"
+msgstr "Форма для включения"
+
+#: pagebuilders/beaverbuilder/cff/cff.inc.php:25
+msgid "Form information"
+msgstr "Информация о форме"
+
+#: pagebuilders/beaverbuilder/cffvar/cffvar.inc.php:15
+msgid "Enter the variable name"
+msgstr "Введите имя переменной"
+
+#: pagebuilders/beaverbuilder/cffvar/cffvar.inc.php:20
+msgid "Enter the default value"
+msgstr "Введите значение по умолчанию"
+
+#: pagebuilders/siteorigin/siteorigin-cpcff/siteorigin-cpcff.php:40
+msgid "Enter a class name to be assigned to the form (optional)"
+msgstr "Введите имя класса, которое будет присвоено форме (необязательно)"
+
+#: inc/cpcff_page_builders.inc.php:93
+#: pagebuilders/beaverbuilder/cff/cff.inc.php:44
+#: pagebuilders/elementor/elementor.pb.php:79
+#: pagebuilders/siteorigin/siteorigin-cpcff/fields/cff-button.class.php:11
+msgid "Edit form"
+msgstr "Редактировать форму"
+
+#: pagebuilders/beaverbuilder/cffvar/cffvar.inc.php:26
+msgid "Directly"
+msgstr "Напрямую"
+
+#: pagebuilders/siteorigin/siteorigin-cpcff-variable/siteorigin-cpcff-variable.php:40
+msgid "Default value (used when variables are generated from a source)"
+msgstr "Значение по умолчанию (используется, когда переменные генерируются с исходника)"
+
+#: pagebuilders/beaverbuilder/cffvar/cffvar/cffvar.php:9
+msgid "Create variable"
+msgstr "Создать переменную"
+
+#: pagebuilders/beaverbuilder/cffvar/cffvar/cffvar.php:10
+msgid "Create javascript variable"
+msgstr "Создать переменную javascript"
+
+#: pagebuilders/beaverbuilder/cffvar/cffvar.inc.php:30
+msgid "COOKIES variables"
+msgstr "Переменные COOKIES"
+
+#: pagebuilders/siteorigin/siteorigin-cpcff-variable/siteorigin-cpcff-variable.php:35
+msgid "Cookie"
+msgstr "Cookie"
+
+#: pagebuilders/beaverbuilder/cff/cff.inc.php:35
+#: pagebuilders/divi/cff.pb.php:43
+msgid "Class name"
+msgstr "Имя класса"
+
+#: pagebuilders/siteorigin/siteorigin-cpcff/siteorigin-cpcff.php:24
+msgid "Calculated Fields Form Shortcode"
+msgstr "Шорткод Calculated Fields Form"
+
+#: pagebuilders/siteorigin/siteorigin-cpcff-variable/siteorigin-cpcff-variable.php:31
+msgid "Any source"
+msgstr "Любой источник"
+
+#: inc/cpcff_page_builders.inc.php:91
+#: pagebuilders/beaverbuilder/cff/cff.inc.php:39
+#: pagebuilders/divi/cff.pb.php:49 pagebuilders/elementor/elementor.pb.php:65
+msgid "Additional attributes"
+msgstr "Дополнительные атрибуты"
+
+#: pagebuilders/siteorigin/siteorigin-cpcff-variable/siteorigin-cpcff-variable.php:13
+msgid "Calculated Fields Form, Variable Shortcode"
+msgstr "Форма с вычисляемыми полями, шорткод переменной"
+
+#: inc/cpcff_compatibility.inc.php:60
+msgid "There is active the <b>Hummingbird</b> plugin. If the forms are not visible, check the <i>\"Hummingbird &gt; Asset Optimization\"</i> options. Make sure that jQuery or other required scripts are not configured to load after the page loads. Remember to purge the website cache, after edit the plugin settings."
+msgstr "Плагин <b>Hummingbird</b> активен. Если формы не отображаются, выберите настройки <i>\"Hummingbird &gt; Asset Optimization\"</i>. Убедитесь, что jQuery или другие необходимые скрипты не загружаются после загрузки страницы. Не забудьте очистить кэш сайта после редактирования настройки плагина."
+
+#: pagebuilders/beaverbuilder/cff/cff.inc.php:29
+#: pagebuilders/divi/cff.pb.php:34
+msgid "Select form"
+msgstr "Выбрать форму"
+
+#: inc/cpcff_admin_int.inc.php:414
+msgid "Payment Settings"
+msgstr "Настройки оплаты"
+
+#: inc/cpcff_admin_int_list.inc.php:510
+msgid "Allows to access the forms directly"
+msgstr "Позволяет получить прямой доступ к формам"
+
+#: inc/cpcff_admin_int_list.inc.php:512
+msgid "Allows to access the forms from amp pages"
+msgstr "Позволяет получить доступ к формам со amp страниц"
+
+#: inc/cpcff_admin_int_list.inc.php:249
+msgid "Forms and Settings"
+msgstr "Формы и настройки"
+
+#: inc/cpcff_admin_int_list.inc.php:251 inc/cpcff_admin_int_list.inc.php:465
+msgid "Marketplace"
+msgstr "Магазин"
+
+#: inc/cpcff_admin_int_list.inc.php:526
+msgid "Calculated Fields Form Marketplace"
+msgstr "Магазин форм с вычисляемыми полями"
+
+#: inc/cpcff_admin_int_list.inc.php:439
+msgid "Applies the default settings to new forms."
+msgstr "Применять настройки по умолчанию к новым формам."
+
+#: inc/cpcff_admin_int_list.inc.php:441
+msgid "Default Template"
+msgstr "Шаблон по умолчанию"
+
+#: inc/cpcff_admin_int_list.inc.php:456
+msgid "Apply To Existing Forms"
+msgstr "Применить к существующим формам"
+
+#: inc/cpcff_admin_int_list.inc.php:456
+msgid "It will modify the settings of existing forms"
+msgstr "Это изменит настройки существующих форм"
+
+#: inc/cpcff_admin_int_list.inc.php:465
+msgid "For additional resources visit the plugin's"
+msgstr "Для получения дополнительных ресурсов посетите раздел плагина"
+
+#: inc/cpcff_admin_int_list.inc.php:497
+msgid "There is active an optimization plugin in WordPress"
+msgstr "В WordPress активен плагин оптимизации"
+
+#: inc/cpcff_admin_int_list.inc.php:498
+msgid "* Tick the checkbox if there is an optimization plugin active on the website, and the forms are not visible."
+msgstr "* Отметьте галочкой, если на сайте активен плагин оптимизации, и формы не видны."
+
+#: inc/cpcff_admin_int.inc.php:56
+msgid "Captcha settings"
+msgstr "Настройки капчи"
+
+#: inc/cpcff_admin_int_list.inc.php:532 inc/cpcff_main.inc.php:230
+msgid "Upgrade"
+msgstr "Обновление"
+
+#: inc/cpcff_admin_int.inc.php:314 inc/cpcff_admin_int.inc.php:375
+#: inc/cpcff_admin_int.inc.php:462 inc/cpcff_admin_int.inc.php:548
+#: inc/cpcff_admin_int.inc.php:618 inc/cpcff_admin_int.inc.php:675
+#: inc/cpcff_admin_int.inc.php:748
+msgid "Up to form structure"
+msgstr "Формирование структуры"
+
+#: inc/cpcff_admin_int.inc.php:568
+msgid "This email is required if the \"From fixed email address\" option is selected, or it is enabled the email copy to the user."
+msgstr "Это электронное письмо требуется, если выбран параметр \"От фиксированного адреса электронной почты\", или включено копирование электронной почты пользователю."
+
+#: inc/cpcff_compatibility.inc.php:30
+msgid "There is active the <b>W3 Total Cache</b> plugin. If the forms are not visible, please tick the checkbox."
+msgstr "Активен плагин <b>W3 Total Cache</b>. Если формы не отображаются, поставьте галочку."
+
+#: inc/cpcff_admin_int.inc.php:50
+msgid "Texts definition"
+msgstr "Определение текстов"
+
+#: inc/cpcff_admin_int.inc.php:155
+msgid "The action will load the revision selected, the data are not stored will be lose. Do you want continue?"
+msgstr "Это действие загрузит выбранную редакцию, данные, которые не были сохранены, будут потеряны. Вы хотите продолжить?"
+
+#: inc/cpcff_compatibility.inc.php:36
+msgid "There is active the <b>Autoptimize</b> plugin. If the forms are not visible, please try disabling the <i>\"Force JavaScript in &lt;head&gt;\"</i> option in the <b>Autoptimize</b> settings, or remove the jQuery file from the <i>\"Exclude scripts from Autoptimize\"</i> one."
+msgstr "Плагин <b>Autoptimize</b> активен. Если формы не отображаются, попробуйте отключить параметр <i>\"Принудительное использование JavaScript в &lt;head&gt;\"</i> параметр в настройках <b>Autoptimize</b> или удалить один файл jQuery из <i>\"Исключить скрипты из Autoptimize\"</i>."
+
+#: inc/cpcff_admin_int.inc.php:400
+msgid "The following features are available in the commercial version of the <a href=\"https://cff.dwbooster.com/download\" target=\"_blank\" style=\"text-decoration:none;\">\"Calculated Fields Form\"</a>"
+msgstr "В коммерческой версии доступны следующие функции <a href=\"https://cff.dwbooster.com/download\" target=\"_blank\" style=\"text-decoration:none;\">\"Calculated Fields Form\"</a>"
+
+#: inc/cpcff_admin_int.inc.php:108
+msgid "Select a revision"
+msgstr "Выберите редакцию"
+
+#: inc/cpcff_admin_int.inc.php:103
+msgid "Revisions"
+msgstr "Редакции"
+
+#: inc/cpcff_admin_int.inc.php:543
+msgid "Prompt for an address and require one"
+msgstr "Запрашивать адрес и требовать его указания"
+
+#: inc/cpcff_admin_int.inc.php:541
+msgid "Prompt for an address, but do not require one"
+msgstr "Запрашивать адрес, но не требовать его указания"
+
+#: inc/cpcff_admin_int.inc.php:67
+msgid "Direct form URL"
+msgstr "Прямой URL-адрес формы"
+
+#: inc/cpcff_admin_int.inc.php:534
+msgid "Paypal prompt buyers for shipping address"
+msgstr "Paypal запрашивает у покупателей адрес доставки"
+
+#: inc/cpcff_admin_int.inc.php:53
+msgid "PayPal integration"
+msgstr "Интеграция с PayPal"
+
+#: inc/cpcff_admin_int.inc.php:401
+msgid "Pay only ONCE, use it FOREVER"
+msgstr "Платите только один раз, пользуйтесь им вечно"
+
+#: inc/cpcff_admin_int_list.inc.php:487
+msgid "Only from MySQL 5.5"
+msgstr "Только с MySQL 5.5"
+
+#: inc/cpcff_admin_int.inc.php:54
+msgid "Notification email"
+msgstr "Уведомление по электронной почте"
+
+#: inc/cpcff_admin_int.inc.php:476
+msgid "Note: If \"Optional\" is selected, a radiobutton will appear in the form to select if the payment will be made with PayPal or not."
+msgstr "Внимание: если выбрано значение \"Необязательно\", в форме появится переключатель, позволяющая выбрать, будет ли оплата производиться с помощью PayPal или нет."
+
+#: inc/cpcff_admin_int.inc.php:137
+msgid "If you need also the form to be sent to the server side for processing (for example to deliver emails) then the <a href=\"https://cff.dwbooster.com/download\" target=\"_blank\">Commercial versions</a> of the plugin are required."
+msgstr "Если вам нужно, чтобы форма также была отправлена на сервер для обработки (например, для доставки электронных писем), то используйте параметр <a href=\"https://cff.dwbooster.com/download\" target=\"_blank\">Коммерческой версии</a> плагина."
+
+#: inc/cpcff_admin_int.inc.php:587
+msgid "If the \"No\" option is selected the plugin won't capture the IP address of users."
+msgstr "Если выбрана опция \"Нет\", плагин не будет перехватывать IP-адреса пользователей."
+
+#: inc/cpcff_admin_int.inc.php:276
+msgid "Generate revisions in the form preview as well"
+msgstr "Создание редакции в предварительном просмотре формы"
+
+#: inc/cpcff_admin_int.inc.php:52
+msgid "General payment settings"
+msgstr "Общие настройки оплаты"
+
+#: inc/cpcff_admin_int.inc.php:61 pagebuilders/divi/cff.pb.php:13
+msgid "Form"
+msgstr "Форма"
+
+#: inc/cpcff_admin_int.inc.php:51
+msgid "Error texts"
+msgstr "Тексты с ошибками"
+
+#: inc/cpcff_admin_int.inc.php:55
+msgid "Email copy to user"
+msgstr "Отправить копию пользователю"
+
+#: inc/cpcff_admin_int_list.inc.php:82
+msgid "Duplicate/Clone Error, the form cannot be cloned"
+msgstr "Ошибка дублирования/клонирования, форма не может быть клонирована"
+
+#: inc/cpcff_admin_int.inc.php:539
+msgid "Do not prompt for an address"
+msgstr "Не запрашивать адрес"
+
+#: inc/cpcff_admin_int_list.inc.php:48
+msgid "Default settings updated"
+msgstr "Настройки по умолчанию обновлены"
+
+#: inc/cpcff_admin_int_list.inc.php:437
+msgid "Default Settings"
+msgstr "Настройки по умолчанию"
+
+#: inc/cpcff_amp.inc.php:172
+msgid "Click to expand"
+msgstr "Щелкните, чтобы расширить"
+
+#: inc/cpcff_admin_int_list.inc.php:239
+msgid "Are you sure you want to modify existing forms?\\nWe recommend modifying the forms one by one."
+msgstr "Вы уверены, что хотите изменить существующие формы? Мы рекомендуем изменять формы по одной."
+
+#: cp_calculatedfieldsf_free.php:148
+msgid "<div class=\"error-text\">The data cannot be stored in database because has occurred an error with the form structure. Please, try to save the data again. If have been copied and pasted data from external text editors, the data can contain invalid characters. If the issue persist, please <a href=\"https://cff.dwbooster.com/contact-us\">contact us</a></div>"
+msgstr "<div class=\"error-text\">Данные не могут быть сохранены в базе данных, так как произошла ошибка в структуре формы. Пожалуйста, попробуйте сохранить их снова. Если данные были скопированы и вставлены из внешних текстовых редакторов, они могут содержать недопустимые символы. Если проблема сохраняется, пожалуйста <a href=\"https://cff.dwbooster.com/contact-us\">свяжитесь с нами</a></div>"
+
+#: inc/cpcff_admin_int.inc.php:298
+msgid "- For general CSS styles modifications to the form and samples <a href=\"https://cff.dwbooster.com/faq#q82\" target=\"_blank\">check this FAQ</a>."
+msgstr "- Для общих модификаций стилей CSS формы и образцов <a href=\"https://cff.dwbooster.com/faq#q82\" target=\"_blank\">ознакомьтесь с FAQ</a>."
+
+#: inc/cpcff_admin_int.inc.php:478
+msgid "Label for the \"<strong>Pay with PayPal</strong>\" option"
+msgstr "Этикетка для опции \"<strong>Оплатить с помощью PayPal</strong>\""
+
+#: inc/cpcff_compatibility.inc.php:24
+msgid "There is active the <b>Fast Velocity Minify</b> plugin. If the forms are not visible, please try disabling the <i>\"Disable minification on JS files\"</i> or <i>\"Disable JavaScript processing\"</i> options in the <b>Fast Velocity Minify</b> settings."
+msgstr "Активен плагин <b>Fast Velocity Minify</b>. Если формы не отображаются, попробуйте отключить параметры <i>\"Отключить минимизацию файлов JS\"</i> или <i>\"Отключить обработку JavaScript\"</i> в разделе <b>Fast Velocity Minify</b> настройки."
+
+#: inc/cpcff_compatibility.inc.php:42
+msgid "There is active the <b>LiteSpeed Cache</b> plugin. If the forms are not visible, please try disabling the <i>\"JS Combine\"</i> option in the <b>Optimize</b> tab of <b>LiteSpeed Cache</b> settings."
+msgstr "Плагин <b>LiteSpeed ​​Cache</b> активен. Если формы не отображаются, попробуйте отключить параметр <i>\"JS Combine\"</i> на вкладке <b>Оптимизация</b> настройки <b>LiteSpeed ​​Cache</b>."
+
+#: inc/cpcff_admin_int.inc.php:137
+msgid "If the form is not loading in the public website, go to the settings page of the plugin through the menu option: \"Settings/Calculated Fields Form\", select the \"Classic\" option for the attribute: \"Script load method\", and press the \"Update\" button."
+msgstr "Если форма не отображается на сайте, перейдите к странице настроек плагина используя опцию меню: \"Настройки/Calculated Fields Form\", выберите опцию \"Нормальный\" для атрибута: \"Метод загрузки скрипта\" и нажмите кнопку \"Обновить\"."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://cff.dwbooster.com"
+msgstr "https://cff.dwbooster.com"
+
+#: cp_calculatedfieldsf_free.php:95
+msgid "Form Preview"
+msgstr "Предпросмотр формы"
+
+#. Author of the plugin
+msgid "CodePeople"
+msgstr "CodePeople"
+
+#: inc/cpcff_admin_int_list.inc.php:267
+msgid "New Form"
+msgstr "Новая форма"
+
+#: inc/cpcff_admin_int_list.inc.php:416
+msgid "Delete"
+msgstr "Удалить"
+
+#: inc/cpcff_admin_int_list.inc.php:459
+msgid "Update"
+msgstr "Обновить"
+
+#: inc/cpcff_admin_int_list.inc.php:383
+msgid "Options"
+msgstr "Параметры"
+
+#: inc/cpcff_admin_int_list.inc.php:382
+msgid "Form Name"
+msgstr "Название формы"
+
+#: inc/cpcff_admin_int_list.inc.php:80
+msgid "Item duplicated/cloned"
+msgstr "Элемент дублирован/клонирован"
+
+#: inc/cpcff_admin_int_list.inc.php:364
+msgid "Form List / Items List"
+msgstr "Список форм / Список элементов"
+
+#: inc/cpcff_admin_int_list.inc.php:380
+msgid "ID"
+msgstr "ID"
+
+#: inc/cpcff_admin_int_list.inc.php:270
+msgid "Item Name"
+msgstr "Имя элемента"
+
+#: inc/cpcff_admin_int_list.inc.php:473
+msgid "<strong>Important!</strong>: Use this area <strong>only</strong> if you are experiencing conflicts with third party plugins, with the theme scripts or with the character encoding."
+msgstr "<strong>Важно!</strong>: Используйте эту область <strong>только</strong>, если возникают конфликты с другими плагинами, темами или кодировкой символов."
+
+#: inc/cpcff_admin_int_list.inc.php:474
+msgid "Script load method"
+msgstr "Метод загрузки скрипта"
+
+#: inc/cpcff_admin_int_list.inc.php:477
+msgid "Classic (Recommended)"
+msgstr "Классический (рекомендовано)"
+
+#: inc/cpcff_admin_int_list.inc.php:479
+msgid "Direct"
+msgstr "Прямой"
+
+#: inc/cpcff_admin_int_list.inc.php:481
+msgid "* Change the script load method if the form doesn't appear in the public website."
+msgstr "* Измените метод загрузки скрипта, если форма не появляется на сайте."
+
+#: inc/cpcff_admin_int_list.inc.php:483
+msgid "Character encoding"
+msgstr "Кодировка символов"
+
+#: inc/cpcff_admin_int_list.inc.php:485
+msgid "Keep current charset (Recommended)"
+msgstr "Сохранить текущую кодировку (рекомендовано)"
+
+#: inc/cpcff_admin_int_list.inc.php:486
+msgid "try this first"
+msgstr "попробуйте сначала это"
+
+#: inc/cpcff_admin_int_list.inc.php:490
+msgid "* Update the charset if you are getting problems displaying special/non-latin characters. After updated you need to edit the special characters again."
+msgstr "* Обновите кодировку, если возникли проблемы с отображением специальных/нелатинских символов. После обновляются нужно снова отредактировать специальные символы."
+
+#: inc/cpcff_admin_int_list.inc.php:508
+msgid "Activate Javascript Cache"
+msgstr "Активировать кеш Javascript"
+
+#: inc/cpcff_admin_int_list.inc.php:517
+msgid "UPDATE"
+msgstr "ОБНОВИТЬ"
+
+#. Description of the plugin
+msgid "Create forms with field values calculated based in other form field values."
+msgstr "Создание формы со значениями поля, вычисляемыми на основе значений других полей формы."
+
+#: inc/cpcff_admin_int_list.inc.php:127
+msgid "Troubleshoot settings updated"
+msgstr "Настройки устранения неполадок обновлены"
+
+#: inc/cpcff_admin_int_list.inc.php:469
+msgid "Troubleshoot Area & General Settings"
+msgstr "Область устранения проблем и Общие настройки"
+
+#: inc/cpcff_admin_int_list.inc.php:214
+msgid "Are you sure you want to update these settings?"
+msgstr "Вы уверены, что хотите обновить эти настройки?"
+
+#: inc/cpcff_admin_int_list.inc.php:515
+msgid "* The forms are not loaded when website is being indexed by searchers."
+msgstr "* Формы не загружаются, когда сайт индексируется поисковиками."
+
+#: inc/cpcff_admin_int_list.inc.php:206
+msgid "Are you sure you want to delete this item?"
+msgstr "Вы уверены, что хотите удалить этот элемент?"
+
+#: inc/cpcff_admin_int.inc.php:771
+msgid "Close"
+msgstr "Закрыть"
+
+#: inc/cpcff_admin_int_list.inc.php:514
+msgid "Do not load the forms with crawlers"
+msgstr "Не загружать формы при поисковых ботах"
+
+#: inc/cpcff_admin_int.inc.php:770 inc/cpcff_main.inc.php:229
+msgid "Settings"
+msgstr "Настройки"
+
+#: inc/cpcff_admin_int.inc.php:697
+msgid "Width"
+msgstr "Ширина"
+
+#: inc/cpcff_admin_int.inc.php:699
+msgid "Height"
+msgstr "Высота"
+
+#: inc/cpcff_admin_int.inc.php:268 inc/cpcff_admin_int.inc.php:390
+#: inc/cpcff_admin_int.inc.php:759
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: inc/cpcff_admin_int.inc.php:584 inc/cpcff_admin_int.inc.php:633
+#: inc/cpcff_admin_int.inc.php:689
+msgid "Yes"
+msgstr "Да"
+
+#: inc/cpcff_admin_int.inc.php:269 inc/cpcff_admin_int.inc.php:711
+msgid "Preview"
+msgstr "Предпросмотр"
+
+#: inc/cpcff_admin_int.inc.php:607 inc/cpcff_admin_int.inc.php:664
+msgid "Message"
+msgstr "Сообщение"
+
+#: inc/cpcff_main.inc.php:247
+msgid "Insert Calculated Fields Form"
+msgstr "Вставить Форму Вычисляемых Полей"
+
+#: inc/cpcff_main.inc.php:247
+msgid "Create a JavaScript var from POST, GET, SESSION, or COOKIE var"
+msgstr "Создать переменную JavaScript из переменной POST, GET, SESSION, или COOKIE"
+
+#: inc/cpcff_admin_int.inc.php:36
+msgid "Settings saved"
+msgstr "Настройки сохранены"
+
+#. Plugin Name of the plugin
+#: inc/cpcff_admin_int.inc.php:61 inc/cpcff_admin_int_list.inc.php:148
+#: inc/cpcff_page_builders.inc.php:165
+#: pagebuilders/beaverbuilder/cff/cff/cff.php:9
+#: pagebuilders/beaverbuilder/cff/cff/cff.php:11
+#: pagebuilders/beaverbuilder/cff/cff/cff.php:12
+#: pagebuilders/beaverbuilder/cffvar/cffvar/cffvar.php:11
+#: pagebuilders/beaverbuilder/cffvar/cffvar/cffvar.php:12
+#: pagebuilders/divi/cff.pb.php:9 pagebuilders/elementor/elementor.pb.php:36
+msgid "Calculated Fields Form"
+msgstr "Форма Вычисляемых Полей"
+
+#: inc/cpcff_admin_int.inc.php:70
+msgid "Back to items list..."
+msgstr "Вернуться к списку элементов..."
+
+#: inc/cpcff_admin_int.inc.php:80 inc/cpcff_admin_int.inc.php:249
+msgid "Form Settings"
+msgstr "Настройки формы"
+
+#: inc/cpcff_admin_int.inc.php:99
+msgid "Form Builder"
+msgstr "Конструктор форм"
+
+#: inc/cpcff_admin_int.inc.php:212
+msgid "These features aren't available in this version. Do you want to open the plugin's page to check other versions?"
+msgstr "Эти функции недоступны в этой версии. Вы хотите открыть страницу плагина, чтобы проверить другие версии?"
+
+#: inc/cpcff_admin_int.inc.php:247
+msgid "Add a Field"
+msgstr "Добавить поле"
+
+#: inc/cpcff_admin_int.inc.php:248
+msgid "Field Settings"
+msgstr "Настройки полей"
+
+#: inc/cpcff_admin_int.inc.php:282
+msgid "Define Texts"
+msgstr "Задать текст"
+
+#: inc/cpcff_admin_int.inc.php:291
+msgid "Next button label (text)"
+msgstr "Кнопка Следующее (текст)"
+
+#: inc/cpcff_admin_int.inc.php:286
+msgid "Previous button label (text)"
+msgstr "Кнопка Предыдущее (текст)"
+
+#: inc/cpcff_admin_int.inc.php:297
+msgid "- The styles can be applied into any of the CSS files of your theme or into the CSS file <em>\"calculated-fields-form\\css\\stylepublic.css\"</em>."
+msgstr "Стили могут быть заданы в любом из CSS файлов Вашей темы или в CSS файле <em>«calculated-fields-form\\css\\stylepublic.css»</em>."
+
+#: inc/cpcff_admin_int.inc.php:319
+msgid "Validation Settings"
+msgstr "Параметры проверки"
+
+#: inc/cpcff_admin_int.inc.php:323
+msgid "\"is required\" text"
+msgstr "текст «требуется» "
+
+#: inc/cpcff_admin_int.inc.php:327
+msgid "\"is email\" text"
+msgstr "текст \"email\""
+
+#: inc/cpcff_admin_int.inc.php:344
+msgid "\"is number\" text"
+msgstr "текст «число» "
+
+#: inc/cpcff_admin_int.inc.php:352
+msgid "\"under maximum\" text"
+msgstr "текст «меньше максимума» "
+
+#: inc/cpcff_admin_int.inc.php:356
+msgid "\"over minimum\" text"
+msgstr "текст «больше минимума» "
+
+#: inc/cpcff_admin_int.inc.php:393 inc/cpcff_admin_int.inc.php:762
+#: inc/cpcff_admin_int_list.inc.php:532
+msgid "Request Custom Modifications"
+msgstr "Запрос пользовательских модификаций"
+
+#: inc/cpcff_admin_int.inc.php:410
+msgid "Form Processing and Payment Settings"
+msgstr "Обработка форм и настройки платежей"
+
+#: inc/cpcff_admin_int.inc.php:467
+msgid "Paypal Payment Configuration"
+msgstr "Конфигурация оплаты через Paypal "
+
+#: inc/cpcff_admin_int.inc.php:484
+msgid "Paypal Mode"
+msgstr "Режим PayPal"
+
+#: inc/cpcff_admin_int.inc.php:487
+msgid "Production - real payments processed"
+msgstr "Производство - реальные платежи обработаны"
+
+#: inc/cpcff_admin_int.inc.php:489
+msgid "SandBox - PayPal testing sandbox area"
+msgstr "Песочница - Песочница для тестирования PayPal "
+
+#: inc/cpcff_admin_int.inc.php:495
+msgid "Paypal email"
+msgstr "Адрес электронной почты PayPal"
+
+#: inc/cpcff_admin_int.inc.php:419
+msgid "Request cost"
+msgstr "Запрос стоимости"
+
+#: inc/cpcff_admin_int.inc.php:424
+msgid "Currency"
+msgstr "Валюта"
+
+#: inc/cpcff_admin_int.inc.php:500
+msgid "A $0 amount to pay means"
+msgstr "Сумма к оплате $0 "
+
+#: inc/cpcff_admin_int.inc.php:503
+msgid "Let the user enter any amount at PayPal (ex: for a donation)"
+msgstr "Пользователь может ввести любую сумму на PayPal (например, для пожертвования)"
+
+#: inc/cpcff_admin_int.inc.php:505
+msgid "Don't require any payment. Form is submitted skiping the PayPal page."
+msgstr "Не требует оплаты. Форма служит для предоставления доступа на страницу PayPal."
+
+#: inc/cpcff_admin_int.inc.php:431
+msgid "Base amount"
+msgstr "Базовая сумма"
+
+#: inc/cpcff_admin_int.inc.php:432
+msgid "Minimum amount to charge. If the final price is lesser than this number, the base amount will be applied."
+msgstr "Минимальная сумма для оплаты. Если окончательная цена меньше, чем это число, будет применяться базовая сумма."
+
+#: inc/cpcff_admin_int.inc.php:437
+msgid "Paypal product name"
+msgstr "Название продукта PayPal"
+
+#: inc/cpcff_admin_int.inc.php:511
+msgid "Paypal language"
+msgstr "Язык PayPal "
+
+#: inc/cpcff_admin_int.inc.php:516
+msgid "Payment frequency"
+msgstr "Частота платежей"
+
+#: inc/cpcff_admin_int.inc.php:521
+msgid "One time payment (default option, user is billed only once)"
+msgstr "Одноразовый платеж (опция по умолчанию, пользователь оплачивает только один раз)"
+
+#: inc/cpcff_admin_int.inc.php:523
+msgid "Bill the user every 1 month"
+msgstr "Ежемесячный счет пользователю"
+
+#: inc/cpcff_admin_int.inc.php:525
+msgid "Bill the user every 3 months"
+msgstr "Счет пользователю каждые 3 месяца"
+
+#: inc/cpcff_admin_int.inc.php:527
+msgid "Bill the user every 6 months"
+msgstr "Счет пользователю каждые 6 месяцев"
+
+#: inc/cpcff_admin_int.inc.php:529
+msgid "Bill the user every 12 months"
+msgstr "Ежегодный счет пользователю"
+
+#: inc/cpcff_admin_int.inc.php:442
+msgid "Discount Codes"
+msgstr "Коды скидок"
+
+#: inc/cpcff_admin_int.inc.php:444
+msgid "This feature isn't available in this version."
+msgstr "Эта функция не доступна в этой версии."
+
+#: inc/cpcff_admin_int.inc.php:447
+msgid "Add new discount code"
+msgstr "Добавить новый код скидки"
+
+#: inc/cpcff_admin_int.inc.php:449
+msgid "Code"
+msgstr "Код"
+
+#: inc/cpcff_admin_int.inc.php:450
+msgid "Discount"
+msgstr "Скидка"
+
+#: inc/cpcff_admin_int.inc.php:451
+msgid "Percent"
+msgstr "Проценты"
+
+#: inc/cpcff_admin_int.inc.php:452
+msgid "Fixed Value"
+msgstr "Фиксированное значение"
+
+#: inc/cpcff_admin_int.inc.php:455
+msgid "Valid until"
+msgstr "Действует до"
+
+#: inc/cpcff_admin_int.inc.php:456
+msgid "Add"
+msgstr "Добавить"
+
+#: inc/cpcff_admin_int.inc.php:458
+msgid "Note: Expiration date based in server time. Server time now is"
+msgstr "Примечание: Дата окончания срока по времени сервера. Сейчас время сервера "
+
+#: inc/cpcff_admin_int.inc.php:563
+msgid "Form Processing / Email Settings"
+msgstr "Форма Обработка/Настройка электронной почты"
+
+#: inc/cpcff_admin_int.inc.php:567
+msgid "\"From\" email"
+msgstr "Поле ОТ Email "
+
+#: inc/cpcff_admin_int.inc.php:579
+msgid "Include additional information?"
+msgstr "Включить дополнительную информацию?"
+
+#: inc/cpcff_admin_int.inc.php:591
+msgid "Thank you page (after sending the message)"
+msgstr "Страница благодарности (после отправки сообщения)"
+
+#: inc/cpcff_admin_int.inc.php:595 inc/cpcff_admin_int.inc.php:652
+msgid "Email format?"
+msgstr "Формат электронной почты?"
+
+#: inc/cpcff_admin_int.inc.php:600 inc/cpcff_admin_int.inc.php:657
+msgid "Plain Text (default)"
+msgstr "Обычный текст (по умолчанию)"
+
+#: inc/cpcff_admin_int.inc.php:602 inc/cpcff_admin_int.inc.php:659
+msgid "HTML (use html in the textarea below)"
+msgstr "HTML (используйте html в текстовом поле ниже)"
+
+#: inc/cpcff_admin_int.inc.php:624
+msgid "Email Copy to User"
+msgstr "Копия Email пользователю"
+
+#: inc/cpcff_admin_int.inc.php:628
+msgid "Send confirmation/thank you message to user?"
+msgstr "Отправить Подтверждение/Благодарственное сообщение пользователю?"
+
+#: inc/cpcff_admin_int.inc.php:640
+msgid "Email field on the form"
+msgstr "Поле электронной почты в форме"
+
+#: inc/cpcff_admin_int.inc.php:701
+msgid "Chars"
+msgstr "Символы"
+
+#: inc/cpcff_admin_int.inc.php:706
+msgid "Min font size"
+msgstr "Минимальный размер шрифта"
+
+#: inc/cpcff_admin_int.inc.php:708
+msgid "Max font size"
+msgstr "Максимальный размер шрифта"
+
+#: inc/cpcff_admin_int.inc.php:713
+msgid "security code"
+msgstr "защитный код"
+
+#: inc/cpcff_admin_int.inc.php:719
+msgid "Noise"
+msgstr "Шум"
+
+#: inc/cpcff_admin_int.inc.php:721
+msgid "Noise Length"
+msgstr "Продолжительность шума"
+
+#: inc/cpcff_admin_int.inc.php:726
+msgid "Background"
+msgstr "Фон"
+
+#: inc/cpcff_admin_int.inc.php:733
+msgid "Font"
+msgstr "Шрифт"
+
+#: inc/cpcff_admin_int_list.inc.php:65
+msgid "Item added"
+msgstr "Элемент добавлен"
+
+#: inc/cpcff_admin_int_list.inc.php:72
+msgid "Item updated"
+msgstr "Элемент обновлен"
+
+#: inc/cpcff_admin_int_list.inc.php:76
+msgid "Item deleted"
+msgstr "Элемент удален"
+
+#: inc/cpcff_main.inc.php:228
+msgid "Request custom changes"
+msgstr "Запросить изменения под себя"
+
+#: inc/cpcff_admin_int.inc.php:472
+msgid "Enable Paypal Payments?"
+msgstr "Включить платежи Paypal?"
+
+#: inc/cpcff_admin_int.inc.php:393 inc/cpcff_admin_int.inc.php:762
+#: inc/cpcff_admin_int_list.inc.php:532 inc/cpcff_main.inc.php:231
+msgid "Help"
+msgstr "Помощь"
+
+#: inc/cpcff_admin_int.inc.php:380
+msgid "Note"
+msgstr "Замечание"
+
+#: inc/cpcff_admin_int.inc.php:474 inc/cpcff_admin_int.inc.php:586
+#: inc/cpcff_admin_int.inc.php:635 inc/cpcff_admin_int.inc.php:691
+msgid "No"
+msgstr "Нет"
+
+#: cp_calculatedfieldsf_free.php:137
+msgid "<div class=\"error-text\">The data cannot be stored in database because has occurred an error with the database structure. Please, go to the plugins section and Deactivate/Activate the plugin to be sure the structure of database has been checked, and corrected if needed. If the issue persist, please <a href=\"https://cff.dwbooster.com/contact-us\">contact us</a></div>"
+msgstr "<div class=\"error-text\">Данные не могут быть сохранены в базе данных, так как произошла ошибка в структуре базы данных. Пожалуйста, перейдите в раздел плагинов и Деактивируйте/Активируйте плагин, чтобы убедиться, что структура базы данных была проверена и при необходимости исправлена. Если проблема не устранена, пожалуйста, <a href=\"https://cff.dwbooster.com/contact-us\">свяжитесь с нами</a></div>"
+
+#: inc/cpcff_admin_int.inc.php:684
+msgid "Use Captcha Verification?"
+msgstr "Использовать проверку по капче?"
+
+#: inc/cpcff_admin_int.inc.php:680
+msgid "Captcha Verification"
+msgstr "Проверка с помощью капчи"
+
+#: inc/cpcff_admin_int.inc.php:571
+msgid "Destination emails (comma separated)"
+msgstr "Адреса электронной почты (через запятую)"
+
+#: inc/cpcff_admin_int.inc.php:96
+msgid "* Different form styles available on the tab Form Settings &gt;&gt; Form Template"
+msgstr "* Различные стили формы доступны на вкладке Настройки формы &gt;&gt; Шаблон формы"
+
+#: inc/cpcff_admin_int.inc.php:348
+msgid "\"only digits\" text"
+msgstr "текст \"только цифры\""
+
+#: inc/cpcff_admin_int.inc.php:336
+msgid "\"is valid date (mm/dd/yyyy)\" text"
+msgstr "текст \"действительная дата (mm/dd/yyyy)\""
+
+#: inc/cpcff_admin_int.inc.php:340
+msgid "\"is valid date (dd/mm/yyyy)\" text"
+msgstr "текст \"действительная дата (dd/mm/yyyy)\""
+
+#: inc/cpcff_admin_int.inc.php:331
+msgid "\"is valid captcha\" text"
+msgstr "текст \"действительна ли капча\""
+
+#: inc/cpcff_admin_int.inc.php:120
+msgid "Save and Preview"
+msgstr "Сохранить и просмотреть"
+
+#: inc/cpcff_admin_int.inc.php:575 inc/cpcff_admin_int.inc.php:648
+msgid "Email subject"
+msgstr "Тема Email"

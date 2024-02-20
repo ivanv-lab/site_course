@@ -1,0 +1,64 @@
+/*
+Theme Name: VladimirCity
+Description: Описание темы VladimirCity
+*/
+html, body {
+    height: 100%;
+    /* background-color: rgba(120, 210, 228, 0.25); */
+    /* background-color: rgb(231, 231, 231); */
+    background-color: #ffffff;
+    }
+    .nav-link {
+    color: #eeeeee !important;
+    font-size: 1.1em;
+    }
+    .nav-link:hover {
+    color: #ffffff !important;
+    transition: color .5s;
+    }
+    .main-header {
+    min-height: 100vh;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.25), rgba(0, 
+    0, 0, 0.25)), url(images/main001.jpg) center / cover no-repeat;
+    color: #ffffff;
+    }
+    .img_type_big {
+    height: 450px;
+    object-fit: cover;
+    }
+    .img_type_medium {
+    height: 200px;
+    object-fit: cover;
+    }
+    @media screen and (max-width: 992px) {
+    .img_type_medium {
+    height: 300px;
+    }
+    }
+    .main-contact__img {
+    border-radius: 5px;
+    }
+    .footer a {
+    color: #ffffff;
+    }
+    .wrapper {
+    min-height: 100%;
+    }
+    .content {
+    flex: 1 0 auto;
+    }
+    .footer {
+    flex: 0 0 auto;
+    }
+    .main-contact__img {
+    height: 600px;
+    width: 800px;
+    object-fit: cover;
+    }
+    @media screen and (max-width: 1070px) {
+    .header{
+    font-size: 0.9em;
+    }
+    }
+
+    
